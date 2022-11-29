@@ -8,4 +8,5 @@ Como clonar um repositório via git bash:
 6) git add nome_arquivo.extensao
 7) git status (para ver se tem algum item com atualizações)
 8) git commit -m "Escreva aqui um comentário sobre o commit"
-9) git push
+9) git add remote origin https://github.com/williamdahlke/testeAutomatizadoPython.git
+10) git push
