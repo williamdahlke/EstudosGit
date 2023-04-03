@@ -10,3 +10,15 @@ Como clonar um repositório via git bash:
 8) git commit -m "Escreva aqui um comentário sobre o commit"
 9) git add remote origin https://github.com/williamdahlke/testeAutomatizadoPython.git
 10) git push
+
+
+como baixar os arquivos de um repositório:
+
+1) Navegar com cd :/
+2) Rodar o comando: git clone https://github.com/williamdahlke/EstudosGit.git
+
+como visualizar os commits que foram realizados no meu repositório:
+
+Opção 1: git log
+
+Opção 2: git log --oneline
