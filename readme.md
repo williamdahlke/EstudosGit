@@ -26,3 +26,8 @@ Opção 2: git log --oneline
 
 Como baixar os arquivos atualizados de um repositório (caso que já tenho uma pasta que faz referência ao meu repositório):
 git pull https://github.com/williamdahlke/EstudosGit.git
+
+como voltar o meu código para um determinado commit:
+
+git restore --source codigo_commit nome_arquivo_restaurar
+git push
