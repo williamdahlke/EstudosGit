@@ -33,5 +33,15 @@ git restore --source codigo_commit nome_arquivo_restaurar
 git push
 
 como adicionar um arquivo para o meu repositório:
-
 git add nome_arquivo
+
+como criar uma nova branch:
+git checkout -b desenvolvimento
+
+como trocar para uma outra branch: 
+git switch nome_branch
+
+como fazer uma merge entre as branches:
+git switch main
+git merge desenvolvimento
+
