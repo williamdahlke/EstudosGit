@@ -31,3 +31,7 @@ como voltar o meu código para um determinado commit:
 
 git restore --source codigo_commit nome_arquivo_restaurar
 git push
+
+como adicionar um arquivo para o meu repositório:
+
+git add nome_arquivo
